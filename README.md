@@ -25,6 +25,6 @@ Blind Mode is added for user who loves venturing to the unknown.
 When Blind Mode is switched off, information regarding the restaurant will be shown.
 ![unblind](https://github.com/mevCJ/EatWat-React-Native/blob/master/screenshots/ss3_eatwat.jpg  "Blind mode on")
 
-When Blind Mode is switched off, the system will hide the information.
+When Blind Mode is switched on, the system will hide the information.
 #### Navigation
 Direction to the selected will be shown in the interactive map.
