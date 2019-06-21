@@ -1,6 +1,6 @@
 # EatWat-React-Native
 ## What is EatWat?
-EatWat is a simple food finder that is built with React Native. It was created to help users decides where to eat when they are indecisive. *The app is currently a prototype and it might be updated in the future.*
+EatWat is a simple food finder that is built with React Native. It was created to help users to decide where to eat when they are indecisive. *The app is currently a prototype and it might be updated in the future.*
 ## Modules and API used in the project
 * [react-native-maps](https://github.com/react-native-community/react-native-maps)
 * [react-native-maps-direction](https://github.com/bramus/react-native-maps-directions)
